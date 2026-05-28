@@ -1,5 +1,5 @@
-# 더보기탭 웹 퍼블리싱 프로젝트 — 디자인 시스템 코드화
+# PD Platform Incubator
 
-카카오톡 더보기탭 디자인 시스템 웹 퍼블리싱 및 코드화(Figma 기반 HTML 재현).
+카카오 사내 PD 플랫폼 TF에 가져갈 과제를 미리 굴려보는 개인 인큐베이터.
 
-**Preview:** https://leche.github.io/moretab-design-system-web-publishing/
+> 사내 GHE로 옮기기 전 PoC를 빠르게 돌려보는 공간. TF 리뷰를 통과한 과제는 사내 레포로 이관됨.
